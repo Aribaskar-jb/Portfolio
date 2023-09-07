@@ -5,9 +5,10 @@ module.exports = {
     title: 'Aribaskar-jb',
     description:
       'Aribaskar-jb is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://aribaskar.tech/', // No trailing slash allowed!
     image: 'src/images/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@JB_Aribaskar',
+    thumbnail: 'src/images/og.png',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
