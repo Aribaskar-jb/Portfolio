@@ -44,7 +44,7 @@ const Head = ({ title, description, image }) => {
       <html lang="en" />
 
       <meta name="description" content={seo.description} />
-      <meta name="image" content={seo.image} />
+      <meta name="image" content="https://aribaskar.tech/favicon-32x32.png" />
 
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />
