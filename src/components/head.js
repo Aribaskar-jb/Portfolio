@@ -3,8 +3,6 @@ import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { useLocation } from '@reach/router';
 import { useStaticQuery, graphql } from 'gatsby';
-import img from "../images/og.png"
-import logo from "../images/Logo.png"
 // https://www.gatsbyjs.com/docs/add-seo-component/
 
 const Head = ({ title, description, image }) => {
